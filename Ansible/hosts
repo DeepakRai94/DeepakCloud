@@ -1,4 +1,3 @@
----
 [cicd]
 sonar ansiblehost=10.0.0.101
 jfrog ansiblehost=10.0.0.102
